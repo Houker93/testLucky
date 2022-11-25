@@ -13,7 +13,7 @@ describe('Lucky Test 1', () => {
           {
           }
       ]
-  })
+    })
 
   })
 })
